@@ -1,4 +1,4 @@
-# CodeJudge 🚀
+# AlgoSim 🚀
 
 An interactive, full-stack algorithmic coding platform built to emulate enterprise-level remote code execution environments. 
 
